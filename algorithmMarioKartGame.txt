@@ -1,1 +1,14 @@
-THINK before you code...
+1. make a playerName string
+2. make a character String
+3. make an speed int
+4. make a public constructor called mariokartplayer
+  a. initialize the playerName, character, and speed using the "this" function.
+  b. make a getPlayerName method
+  c. make a getCharacter  method
+  d. make a setCharacter method
+  e. make a getSpeed method
+  f. make a setSpeed method
+  g. make a performPeachBomb boost method
+    i. print the playername does the peachbomb bost and now deals 2 times damage.
+  h. make a performSpeedBoost method
+  i. print the playername and that they use the speed boost
